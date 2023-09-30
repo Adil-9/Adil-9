@@ -8,8 +8,11 @@
 - 🌱 I’m currently learning **backend development**
 
 - 📫 How to reach me
+
   Email - **madil6583@gmail.com**
+
   Telegram - **@e_xi_t**
+
 - ⚡ Fun fact **YES**
 
 <h3 align="left">Connect with me:</h3>
