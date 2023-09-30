@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adil-9&label=Profile%20views&color=0e75b6&style=flat" alt="adil-9" /> </p>
 
+- 🌱 I’m currently learning **backend development**
+
 - 📫 How to reach me **madil6583@gmail.com**
 
 - ⚡ Fun fact **YES**
